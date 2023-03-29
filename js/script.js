@@ -48,5 +48,8 @@ createApp({
         slideStop() {
             clearInterval(this.slideInterval);
         }
+    },
+    mounted() {
+        this.setInterval();
     }
 }).mount('#app');
