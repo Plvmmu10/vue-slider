@@ -33,19 +33,6 @@
     height: calc(100% / 5);
 }
 
-.imgBox {
-    width: 100%;
-    height: 700px;
-
-}
-
-.imgBox>img {
-    width: 100%;
-    height: 100%;
-    object-position: center;
-    object-fit: contain;
-}
-
 
 .thumb>img {
     width: 100%;
