@@ -75,3 +75,8 @@
 .deactive {
     opacity: 0.7;
 }
+
+.text-container {
+    margin: 1rem;
+    background-color: rgba(0, 0, 0, 0.5);
+}
